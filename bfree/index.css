@@ -1,0 +1,500 @@
+div, span, p {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+}
+
+.shift-left {
+    margin: -3% 0 0 40%;
+}
+
+
+.top {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    z-index: 100;
+
+}
+
+.bfree {
+    height: 100px;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    background: white;
+    border: solid 1px #F7F7F7;
+}
+
+.hire-us {
+    background: #F7F7F7;
+    position: fixed;
+    left: 79%;
+    top: 23%;
+    height: 50px;
+    width: 151px;
+}
+
+
+.blank {
+    height: 50px;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+
+    background: #F7F7F7;
+}
+
+.first-image {
+    width: 60px;
+    height: 50px;
+    margin: 1% 0 0 10%
+}
+
+
+.aa-shift {
+    color: black;
+    font-weight: 600;
+    font-size: 16px;
+
+}
+
+.aaa-shift {
+    font-weight: 600;
+    font-size: 16px;
+    color: #00A4DB;
+    margin-left: 20px;
+    margin-top: 9px;
+}
+
+.aa-shift-self {
+    color: black;
+    font-weight: 600;
+    font-size: 16px;
+    margin-top: 8px;
+}
+
+.mkbg {
+    background: #00A4DB;
+    height: 50px;
+    margin-top: -4px;
+}
+
+.all {
+    margin-top: 12%;
+}
+
+.first {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    width: 100%;
+    height: 708px;
+}
+
+.second {
+    height: 708px;
+    background: #F7F7F7;
+}
+
+
+
+.third {
+    height: 608px;
+    background: gray;
+}
+
+.our-services {
+    background: white;
+    height: 40%;
+    width: 100%;
+    padding-top: 8%;
+}
+
+.service-detail {
+    text-align: center;
+    color: #00A4DB;
+    font-weight: bold;
+    text-align: center;
+    font-size: 35px;
+}
+
+.story {
+    height: 45%;
+    background: #F7F7F7;
+}
+
+
+.video-circle {
+    text-align: center;
+}
+
+.video {
+    height: 55%;
+    background: #F7F7F7;
+}
+
+.video-link {
+    width: 900px;
+    height: 75%;
+    background: grey;
+    padding-top: 10%;
+    margin-left: 200px;
+}
+
+.oriflo {
+    width: 60px;
+    height: 60px;
+    margin-left: 120px;
+}
+
+.ic {
+    color: #00A4DB;
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+    margin: 20px 0;
+    margin-left: -20px;
+}
+
+
+.first-service, .second-service, .third-service {
+    margin-top: 10px;
+    width: 400px;
+}
+.first-service {
+    margin-left: 10%;
+}
+
+.third-service {
+    margin-right: 10%;
+}
+
+.second-service {
+    margin: 0 20px 0 20px:
+}
+
+.shade {
+    height: 100%;
+    background: #F7F7F7;
+    padding-top: 60px;
+}
+
+
+.our-story {
+    color: #00A4DB;
+    font-weight: bold;
+    text-align: center;
+    font-size: 35px;
+    padding: 5% 0 0 0;
+}
+
+.gil {
+    padding: 2% 0 0 0;
+    margin-left: 25%;
+    width: 650px;
+    text-align: center;
+}
+
+.girl-img {
+    width: 100%;
+    height: 100%;
+}
+
+.build {
+    font-weight: bold;
+    font-size: 40px;
+    margin: 16% 10% 0 0;
+}
+
+/*
+.first-text {
+    background: orange;
+}
+
+*/
+.manager {
+    color: #00A4DB;
+}
+
+.first-lorem {
+    font-family: 'Montserrat', sans-serif;
+    margin: 2% 27% 0 0;
+}
+
+.learn-more {
+    border: solid 2px #00A4DB;
+    height: 40px;
+    width: 240px;
+    border-radius: 25px;
+    padding-top: 7px;
+}
+
+.learn-more-a {
+    margin: 0 0 0 29%;
+    text-decoration: none;
+    color: #00A4DB;
+}
+
+.mv-bus {
+    color: white;
+    font-size: 54px;
+    font-weight: bold;
+    position: relative;
+    top: 600px;
+    left: 100px;
+}
+
+.benefits {
+    width: 100%;
+    height: 758px;
+}
+
+.lasgidi {
+    height: 100%;
+    width: 100%;
+}
+
+.text-head {
+    font-weight: bold;
+    font-size: 20px;
+    margin: 16% 10% 0 0;
+    color: white;
+}
+
+.text-head-one {
+    color: white;
+    margin-bottom: 20px;
+}
+
+
+.op {
+    background: #00A4DB;
+    padding-top: 5%;
+}
+
+.dark-blue {
+    background: #1E90FF;
+    margin-top: 90px;
+}
+
+.one, .two, .three, .four, .five, .six {
+    margin-left: 10%;
+    border-top: 1px solid black;
+    border-collapse: collapse;
+
+}
+
+.two, .five, .six {
+    border-left: 1px solid black;
+    width: 100px;
+    margin-left: 70px;
+}
+
+.one, .three, .four {
+    border-right: 1px solid black;
+    margin-left: 70px;
+    width: 600px;
+}
+
+.four {
+}
+
+
+.our {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    color: #00A4DB;
+}
+
+.trusted-clients {
+    height: 300px;
+    padding-top: 60px;
+}
+
+.branch-flower {
+    width: 20px;
+    height: 20px;
+}
+
+.trust-text-one {
+    font-weight: bold;
+    font-size: 35px;
+    color: black;
+}
+
+.customers {
+    padding: 30px 200px;
+}
+
+.trust-logo-one {
+    margin-left: 50px;
+}
+
+.dots-one, .dots-two, .dots-three {
+    height: 25px;
+    width: 25px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.dots {
+    margin-left: 600px;
+}
+
+.dots-one {
+    background: #87CEFA	;
+}
+
+.dots-two {
+    background: #00A4DB ;
+}
+
+.dots-three {
+    background: #87CEFA	;
+}
+
+.reach {
+    height: 400px;
+    padding-top: 40px;
+}
+
+
+.reach-text {
+    text-align: center;
+    margin: 60px 0;
+    font-size: 30px;
+    color: #00A4DB;
+    font-weight: 600;
+}
+
+.reach-text-bottom {
+    text-align: center;
+    width: 100%;
+    margin-top: -20px;
+}
+
+
+.reach-hire {
+    width: 140px;
+    height: 40px;
+    background:  #00A4DB;
+    margin-left: 590px;
+}
+
+
+.reach-hire-a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px 0 0 24px;
+}
+
+
+.footer {
+    background: #008FBF;
+    height: 500px;
+    padding: 3% 10% 0 8%;
+    color: white;
+}
+
+.copy, .terms {
+    margin-left: -50px;
+}
+.terms {
+    margin-left: -30px;
+}
+
+.facebook {
+    margin-left: 115px;
+}
+
+.twitter {
+    margin-left: -20px;
+}
+.linkedin {
+    margin-left: -20px;
+}
+
+
+.white {
+    width: 170px;
+    height: 170px;
+    margin-bottom: 30px;
+}
+
+
+.big-logo-text {
+    width: 250px;
+    color: white;
+}
+
+.email, .about-us-text, .services-text, .date, .office-text {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.set-date {
+    margin-top: 100px;
+}
+
+.set-email {
+    margin-top: 124px;
+}
+
+
+
+.facebook-img {
+    width: 30px;
+    height: 30px;
+}
+
+.lower {
+    width: 100%;
+}
+
+
+.upper {
+    height: 80%;
+}
+
+
+/*
+.clickable {
+    position: absolute;
+    right: 110px;
+    bottom: 29px;
+
+}
+
+.nav, .nav-bar, .facebook-img {
+    display: inline-block;
+}
+
+nav a {
+    margin-right: 40px;
+}
+
+.self {
+    background: red;
+    height: 90px;
+    display: inline;
+}
+
+
+a {
+    text-decoration: none;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: black;
+}
+
+*/
